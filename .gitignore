@@ -1,0 +1,33 @@
+# Ignore virtual environment folders
+venv/
+.venv/
+
+# Ignore environment files
+.env
+
+# Ignore Node.js dependency folders
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore compiled Python files
+__pycache__/
+*.py[cod]
+
+# Ignore vendor directory
+vendor/
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE configuration files
+.vscode/
+*.code-workspace
+
+# Ignore build/output files
+dist/
+build/
+*.zip
+*.tar.gz

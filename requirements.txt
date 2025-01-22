@@ -1,0 +1,4 @@
+pandas==2.2.3
+python-constraint==1.4.0
+pytz==2024.2
+tzdata==2024.2
