@@ -2,7 +2,7 @@
 The COM3102-Project is a full-stack web application that allows students to efficiently manage academic resources such as assignments, chat with peers, share references, and receive friend suggestions. Below is a meticulous breakdown of its key components, technologies, and file purposes:
 
 Concepts and Features:
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Authentication (JWT):
 Purpose: Securely authenticate users by issuing a JSON Web Token (JWT) upon login. Tokens are stored in the client (browser’s local storage) and verified on the server for protected routes.
 Files Involved:
