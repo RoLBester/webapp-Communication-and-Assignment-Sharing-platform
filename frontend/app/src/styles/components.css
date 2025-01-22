@@ -1,0 +1,26 @@
+/* src/styles/components.css */
+
+/* Button Styles */
+.btn {
+  @apply bg-blue-500 text-white py-2 px-4 rounded hover:bg-blue-600;
+}
+
+/* Form Input Styles */
+.input {
+  @apply mt-1 w-full px-3 py-2 border rounded;
+}
+
+/* Error Message Styles */
+.error-message {
+  @apply text-red-600;
+}
+
+/* Success Message Styles */
+.success-message {
+  @apply text-green-600;
+}
+
+/* Card Styles */
+.card {
+  @apply bg-white shadow-md rounded p-6;
+}
